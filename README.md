@@ -6,4 +6,4 @@ REST-API for polling app , where a user can register, signin, create poll , add 
 "/api/auth/login": "signin",</br>
 "/api/polls/user": "get all polls from a user",</br>
 "/api/polls/:pollId": "get/vote/delete poll",</br>
-"/api/polls/user": "create/show poll",</br>
+"/api/polls/": "create/show poll",</br>
